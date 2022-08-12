@@ -1,16 +1,12 @@
 {
-  "name": "understanding-typescript",
+  "name": "drag-drop",
   "version": "1.0.0",
-  "description": "Understanding TypeScript Course Setup",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "lite-server"
   },
-  "keywords": [
-    "typescript",
-    "course"
-  ],
   "author": "Zelya",
   "license": "ISC",
   "devDependencies": {
